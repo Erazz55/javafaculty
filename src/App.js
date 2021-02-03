@@ -21,7 +21,9 @@ function App() {
                                backgroundColor: "#bf2f24",
                                width: '30%', height: '2.5rem', 
                                borderRadius: '16px',
-                               fontSize: '1.8rem'}}><a style={{color: 'white', textDecoration: 'none'}} href="https://docs.google.com/forms/d/e/1FAIpQLScy0MHqzd3aEa5Ywc3Hf2WVvIZ8oWQvyDOM5ATzD0BibBg8EA/viewform?usp=sf_link">Click Here To Register</a></button>
+                               fontSize: '1.8rem'
+                                  
+                                }}><a style={{color: 'white', textDecoration: 'none'}} href="https://docs.google.com/forms/d/e/1FAIpQLScy0MHqzd3aEa5Ywc3Hf2WVvIZ8oWQvyDOM5ATzD0BibBg8EA/viewform?usp=sf_link">Click Here To Register</a></button>
                 
           </div>
           
